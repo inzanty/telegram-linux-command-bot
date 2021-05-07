@@ -1,6 +1,5 @@
-# telegram-linux-daemon-bot
-Adds ability to manage your server from Telegram bot
-
+# telegram-linux-Command-bot
+Allows execute command on your linux server from telegram bot 
 # Installation
 Install python-dependency ```telebot```.
 
